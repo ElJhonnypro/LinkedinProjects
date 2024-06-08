@@ -20,5 +20,4 @@ Notification Example
     type={error ? "info" : "error"}
     duration={3000} //ms
 />
-<>
 ```
