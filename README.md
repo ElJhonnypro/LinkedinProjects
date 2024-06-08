@@ -7,7 +7,7 @@
 * React Native
 * App Notification (in the app)
 
-![Notification Example](https://github.com/ElJhonnypro/LinkedinProjects/blob/main/ImagesProject/ExampleNotification.png?raw=true)
+![Notification Example](https://github.com/ElJhonnypro/LinkedinProjects/blob/main/ImagesProjects/ExampleNotification.png?raw=true)
 
 > Go to Notification, components > Notification.tsx 
 
