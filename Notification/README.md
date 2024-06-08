@@ -2,7 +2,7 @@
 
 ### Explain
 This is not like the normal notifications
-![Notification Example](https://github.com/ElJhonnypro/LinkedinProjects/blob/main/ImagesProject/ExampleNotification.png?raw=true)
+![Notification Example](https://github.com/ElJhonnypro/LinkedinProjects/blob/main/ImagesProjects/ExampleNotification.png?raw=true)
 
 go to component > Notification
 in the index you can see it how it works
